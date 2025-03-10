@@ -5,7 +5,7 @@ if (select == "1"):
     print("화씨온도를 섭씨온도로 변환합니다.")
     temper = int(input(" - 화씨 온도 입력: "))
     temperResult = (temper - 32) * 5 / 9
-    # 결과 출력하는 코드 필요
+    # 결과 출력하는 코드 필요합니다
 elif (select == "2"):
     print("섭씨온도를 화씨온도로 변환합니다.")
     temper = int(input(" - 섭씨 온도 입력: "))
