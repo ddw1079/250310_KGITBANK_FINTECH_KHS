@@ -1,6 +1,10 @@
 # 250310_KGITBANK_FINTECH_KHS
 
-# ubuntu 서버 다운로드
+# ubuntu 데스크톱 및 서버 다운로드
+    리눅스 우분트 데스크톱 다운로드 경로
+    https://releases.ubuntu.con/22.04/
+    이곳에서 리눅스 데스크톱 iso 파일 다운로드
+
     리눅스 우분투 서버 다운로드 경로
     https://releases.ubuntu.con/22.04/
     이곳에서 리눅스 서버 iso 파일 ubuntu-22.04.5-live-server-amd64.iso 다운로드
